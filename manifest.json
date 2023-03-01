@@ -1,0 +1,38 @@
+
+{
+   "name":"Klaim Koin Kripto",
+   "short_name":"Klaim Koin Kripto",
+   "start_url":"https://kalimkoinkripto
+   blogspot.com",
+   "display":"standalone",
+   "background_color":"#fff",
+   "theme_color":"#7078B0",
+   "description":"Claim your crypto, own the future! Kita adalah situs yang berisi info-informasi seru seputar dunia kripto nih. Jadi, buat kamu yang mau tahu lebih banyak soal bitcoin, blockchain, dan cryptocurrency lainnya, mampir deh ke sini. Dijamin gak bakal bosen, karena isinya keren-keren dan up-to-date banget!",
+   "icons":[
+      {
+         "src":"https://github.com/Arulzha/klaimkoinkripto/blob/40317fd95f3d417d16fdc242df0d605fb9cb09e9/favicon-16x16.png",
+         "sizes":"16x16",
+         "type":"image/png",
+         "density":"0.75"
+      },
+      {
+         "src":"https://github.com/Arulzha/klaimkoinkripto/blob/40317fd95f3d417d16fdc242df0d605fb9cb09e9/favicon-32x32.png",
+         "sizes":"32x32",
+         "type":"image/png",
+         "density":"1.0"
+      },
+      {
+         "src":"https://github.com/Arulzha/klaimkoinkripto/blob/40317fd95f3d417d16fdc242df0d605fb9cb09e9/android-chrome-192x192.png",
+         "sizes":"192x192",
+         "type":"image/png",
+         "density":"4.0"
+      },
+      {
+         "src":"https://github.com/Arulzha/klaimkoinkripto/blob/40317fd95f3d417d16fdc242df0d605fb9cb09e9/android-chrome-512x512.png",
+         "sizes":"512x512",
+         "type":"image/png",
+         "density":"5.0"
+      }
+   ]
+}
+
